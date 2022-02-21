@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="17283ae9-c8e8-4fe5-b566-5a2f456bd916" />
+          <option name="name" value="bfcai_schedule" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/../../../bfcai_schedule.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
